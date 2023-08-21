@@ -1,0 +1,14 @@
+:root{
+    --white: #ffffff;
+    --gray: gray;
+    --black: black;
+    --primary--color: #FF00FF;
+    --secondary--color: #9932CC;
+    --darck--secondary--color: #3c415c;
+    --tartiary-color: #FF69B4;
+    --ligth-tertiary-color: #f3f6fb;
+    --text-color: #4B0082;
+    --box--color: rgb(8, 175, 8);
+    --text--shandow-color:#8A2BE2 ;
+    --font-family: cursive ;
+}
